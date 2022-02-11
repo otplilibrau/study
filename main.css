@@ -1,0 +1,63 @@
+body {
+    
+}
+
+h2 {
+    color: #fff;
+}
+
+h1 {
+    color: red;
+}
+
+.new {
+    width: 100px;
+    background: blue;
+    margin-bottom: 100px;
+    color: #fff;
+}
+
+.span span{
+    color: red;
+}
+
+h2.name {
+    background: rgb(20, 180, 20);
+    padding: 10px;
+}
+
+h2.name2 {
+    background:  rgb(20, 180, 20);
+    padding: 50px;
+}
+
+p.console {
+    margin-left: 8%;
+}
+
+p.type {
+    margin-bottom: 30px;
+}
+
+li.string1 {
+    font-size: 30px;
+    border-top: 4px solid  rgb(5, 71, 5);
+    border-right: 4px solid  rgb(20, 180, 20);
+    border-left: 4px solid  rgb(20, 180, 20);
+    border-bottom: 4px solid  rgb(20, 180, 20);
+}
+
+li.string2 {
+    font-size: 30px;
+    border: 4px solid  rgb(20, 180, 20);
+}
+
+li.string3 {
+    font-size: 30px;
+    border: 4px solid  rgb(20, 180, 20);
+}
+
+h2.Name {
+    background: rgb(20, 180, 20);
+    padding: 10px;
+}
